@@ -142,4 +142,4 @@ To build an interactive tool that:
 
 ---
 
-## Example: ![DashboardPreview](
+## Example: ![DashboardPreview](https://github.com/AnanyaDubey01-dev/Car-Vendor-Visualization/blob/main/Cumulative%20DASHBOARD.jpg)
