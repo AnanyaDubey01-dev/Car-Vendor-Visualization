@@ -107,4 +107,4 @@ Automotive retailers often struggle with deriving quick insights into sales tren
 * Business analysts identifying regional expansion strategies.
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DEMO:
-
+Explain: ![Dashboard Preview](https://github.com/AnanyaDubey01-dev/Car-Vendor-Visualization/blob/main/Cumulative%20DASHBOARD.jpg)
